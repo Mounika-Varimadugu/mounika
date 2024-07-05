@@ -1,0 +1,15 @@
+fieldset{
+    margin-left:500px;
+    height:800px;
+    margin-right:900px;
+    width: 500px;
+    border-radius: 20px;
+    border-color: rgb(182, 129, 156);
+}
+.ma{
+    margin-left: 90px;
+}
+
+.space{
+    margin-bottom: -3px;
+}

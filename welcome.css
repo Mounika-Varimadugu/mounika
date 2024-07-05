@@ -1,0 +1,69 @@
+.main{
+    width: 500px;
+    height: 550px;
+    margin-top: 76px;
+    margin-left: 500px;
+    border-style: solid;
+    border-radius: 20px;
+    border-color: blueviolet;
+
+}
+.main b{
+    margin-left: 230px;
+    margin-top:20px;
+}
+.main .fields .fname{
+    margin-left: 4px;
+    margin-bottom: 10px;
+}
+.main .fields .lname{
+    margin-left: 4px;
+    margin-bottom: 10px;
+}
+
+.main .fields .mname{
+    margin-left: 4px;
+    margin-bottom: 10px;
+    
+}
+.main .fields .faname{
+    margin-left: 4px;
+    margin-bottom: 10px;
+}
+.main .fields .email{
+    margin-left: 4px;
+    margin-bottom: 10px;
+    width: 340px;
+}
+.main .fields .password{
+    margin-left: 4px;
+    margin-bottom: 10px;
+    width: 340px;
+}
+.main .gender{
+    margin-left: 4px;
+    margin-top: auto;
+    margin-bottom: -10px;
+}
+.main .fields .mobileno{
+    margin-left: 4px;
+    margin-bottom: 10px;
+}
+.main .fields .COLLEGE{
+    margin-left: 4px;
+    margin-bottom: 10px;
+}
+.main .fields .sub{
+    margin-left: 4px;
+    margin-bottom: 10px;
+}
+.main .fields .doj{
+    margin-left: 4px;
+    margin-bottom: 10px;
+}
+.fields{
+    margin-left: 20px;
+}
+.main h2 {
+    margin-left: 140px;
+}        

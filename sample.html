@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+</head>
+<body>
+    <form action="" onsubmit="validate()">
+    <input type="email" id="email" placeholder="Email"><br><br>
+    <input type="password" id="password" placeholder="password"><br><br>
+    <button type="submit">SUBMIT</button>
+    </form>
+    <script>
+        function validate(){
+        var email=document.getElementById("email");
+        var password=document.getElementById("password");
+        if(email.value ==""){
+            alert("Enter the Email");
+        }
+        if(password.value ==""){
+            alert("Enter the Password");
+        }
+       }
+    </script>
+
+
+
+
+
+     
+             
+
+
+    
+</body>
+</html>  
